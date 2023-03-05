@@ -1,3 +1,2 @@
-# cryptobot
-### Выполнили: Ёлкина Ольга, Романко Елизавета, Иванчикова София
-### БЭК202
+## A Telegram Cryptobot
+### HW for HSE Python course
